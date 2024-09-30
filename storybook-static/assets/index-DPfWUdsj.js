@@ -1,0 +1,1 @@
+import{r as e}from"./index-caxmlYbZ.js";import{j as s}from"./emotion-use-insertion-effect-with-fallbacks.browser.esm-o1lFxRFU.js";const r=e.createContext();function a({value:t,...o}){return s.jsx(r.Provider,{value:t??!0,...o})}const x=()=>e.useContext(r)??!1;export{a as R,x as u};

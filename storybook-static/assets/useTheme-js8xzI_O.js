@@ -1,0 +1,1 @@
+import{f as n,g as r}from"./DefaultPropsProvider-C-EGLtJD.js";import{r as s}from"./index-caxmlYbZ.js";function o(e){return Object.keys(e).length===0}function m(e=null){const t=s.useContext(n);return!t||o(t)?e:t}const u=r();function f(e=u){return m(e)}export{m as a,f as u};
